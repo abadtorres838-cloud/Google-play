@@ -1,0 +1,1 @@
+## 2024-05-18 - Empty Repository Security Baseline\n**Vulnerability:** Missing SECURITY.md\n**Learning:** Even empty repositories need a security baseline for reporting future issues.\n**Prevention:** Create a SECURITY.md file upon repository initialization to establish clear reporting guidelines.
