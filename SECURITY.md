@@ -1,0 +1,11 @@
+# Security Policy
+
+## Supported Versions
+
+Currently, the main branch is supported with security updates.
+
+## Reporting a Vulnerability
+
+If you discover a security vulnerability within this project, please send an e-mail to the repository maintainer. All security vulnerabilities will be promptly addressed.
+
+Please do not open a public issue or pull request for security vulnerabilities.
