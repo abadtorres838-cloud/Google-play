@@ -32,3 +32,8 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Security: Prevent leaking secrets and environment variables
+.env
+.env.*
+!.env.example
