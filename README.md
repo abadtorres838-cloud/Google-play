@@ -1,2 +1,2 @@
-j# Google-play
+# Google-play
 Hack
